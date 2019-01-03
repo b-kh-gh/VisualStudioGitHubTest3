@@ -10,7 +10,6 @@ namespace VisualStudioGitTest3.Controllers
     {
         public ActionResult Index()
         {
-            Console.WriteLine("sssssss");
             return View();
         }
 
